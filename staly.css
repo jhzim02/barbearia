@@ -6,17 +6,22 @@
 }
 
 h1 {
-    text-align: center;
+    /* text-align: center; */
     font-family:Georgia, 'Times New Roman', Times, serif ;
 
     color: #ffffff;
 }
+img {
+    max-width: 100%;
+    height: auto;
+  }
 
 .title {
-    text-align: center;
-    font-family: sans-serif;
-    padding: auto;
-    width: auto;
+    margin: 20px;
+    /* text-align: center; */
+    font-family:'Courier New', Courier, monospace;
+    /* padding: auto;
+    width: auto; */
     color: #ffffff;
 
 
@@ -78,10 +83,10 @@ text-align: center;
     margin-left: 25px;
 }
 .default-btn{
-    padding: 15px 20px;
+    padding: 8px 1px;
     background-color: #1000f0;
     color: #fff;
-    border-radius: 5px;
+    border-radius: 15px;
 }
 
 .navbar-items li a {
@@ -90,12 +95,12 @@ text-align: center;
 }
 
 .main-banner {
-    background-image: url('img/img7.png');
+    background-image: url('img/imgg.jpg');
     background-position: center;
     background-size: cover;
     position: relative;
-    height: 300px;
-    padding: 13em 0;
+    height: 295px;
+    padding: 6em 0;
 }
 
 .contact-container textarea {
@@ -137,3 +142,10 @@ color: rgb(255, 255, 255);
 margin-left: 48%;
 
 }
+h2{
+    color: #fff;
+    text-align: center;
+}
+@media (max-width: 768px) {
+
+  }
