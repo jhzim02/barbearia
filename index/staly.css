@@ -1,0 +1,155 @@
+.body {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat", Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    /* text-align: center; */
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+
+    color: #ffffff;
+}
+img {
+    max-width: 100%;
+    height: auto;
+  }
+
+.title {
+    margin: 20px;
+    /* text-align: center; */
+    font-family:'Courier New', Courier, monospace;
+    /* padding: auto;
+    width: auto; */
+    color: #ffffff;
+
+
+}
+
+p {
+    text-align: center;
+    font-family: sans-serif;
+    color: #ffffff;
+
+}
+#img{
+text-align: center;
+
+}
+
+
+.img {
+    width: 212px;
+text-align: center;
+}
+#img1 {
+ 
+text-align: center;
+}
+
+.img1 {
+    width: 200px;
+ margin:auto;
+ border-radius: 10px;
+}
+.img2{
+    width: 158px;
+     border-radius: 10px;
+}
+
+.navbar-container {
+    display: flex;
+    width: 100%;
+    height: 80px;
+    background-color: #232a31;
+
+    position: relative;
+    box-sizing: border-box;
+}
+
+.navbar-items {
+    list-style: none;
+    position: absolute;
+    display: inline-block;
+    line-height: 80px;
+    margin: 0;
+    right: 0;
+}
+
+.navbar-items li {
+    display: inline-block;
+    text-transform: uppercase;
+    margin-left: 25px;
+}
+.default-btn{
+    padding: 8px 1px;
+    background-color: #1000f0;
+    color: #fff;
+    border-radius: 15px;
+}
+.endereço{
+    padding: 8px 1px;
+    background-color: #1000f0;
+    color: #fff;
+    border-radius: 15px;
+
+}
+
+.navbar-items li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.main-banner {
+    background-image: url('imgg.jpg');
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    height: 295px;
+    padding: 6em 0;
+}
+
+.contact-container textarea {
+    width: 100%;
+    display: block;
+    margin-left: 0;
+    margin-right: 0;
+    box-sizing: border-box;
+}
+
+.logo1 {
+    margin: 10px;
+    border-radius: 20px;
+}
+
+.inicio {
+    display: flex;
+
+}
+.img8{
+    width: 164px;
+border-radius: 10px;
+
+}
+.img9{
+    width: 164px;
+border-radius: 8px;
+
+}
+.img10{
+width: 164px;
+border-radius: 7px;
+}
+.main-banner h1,p{
+color: rgb(255, 255, 255);
+}
+#mão{
+
+margin-left: 48%;
+
+}
+h2{
+    color: #fff;
+    text-align: center;
+}
